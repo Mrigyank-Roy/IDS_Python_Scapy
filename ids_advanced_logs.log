@@ -1,0 +1,9 @@
+2025-10-17 23:18:02,830 - INFO - Intrusion Detection System started.
+2025-10-17 23:18:02,830 - ERROR - An error occurred during sniffing: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-10-17 23:18:02,831 - INFO - Intrusion Detection System stopped.
+2025-10-17 23:18:40,710 - INFO - Intrusion Detection System started.
+2025-10-17 23:18:40,710 - Suspiciously large packet (1506 bytes) detected from 20.44.10.123 to 192.168.1.6
+2025-10-17 23:18:40,710 - Suspiciously large packet (1506 bytes) detected from 20.44.10.123 to 192.168.1.6
+2025-10-17 23:18:40,710 - Suspiciously large packet (1506 bytes) detected from 20.44.10.123 to 192.168.1.6
+2025-10-17 23:18:40,710 - Suspiciously large packet (1506 bytes) detected from 20.44.10.123 to 192.168.1.6
+2025-10-17 23:18:40,710 - INFO - Intrusion Detection System stopped.
